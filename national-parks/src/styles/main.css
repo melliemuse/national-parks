@@ -1,4 +1,7 @@
-body {
-    background-color: aquamarine;
-    color: white;
+.not_visited {
+    border: solid green 2px;
+}
+
+.visited {
+    border: red dashed 2px;
 }

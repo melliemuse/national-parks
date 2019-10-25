@@ -1,1 +1,3 @@
 console.log('Testing')
+
+APIcall()
